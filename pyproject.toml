@@ -1,0 +1,20 @@
+[project]
+name = "visioncache"
+version = "0.1.0"
+description = "Visual deduplication and similarity clustering tool."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "torch",
+    "torchvision",
+    "transformers",
+    "Pillow",
+    "faiss-cpu",
+    "tqdm",
+    "numpy",
+    "scikit-learn",
+    "opencv-python"
+]
+
+[tool.uv]
+package = true

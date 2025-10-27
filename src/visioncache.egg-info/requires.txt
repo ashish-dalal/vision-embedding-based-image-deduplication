@@ -1,0 +1,9 @@
+torch
+torchvision
+transformers
+Pillow
+faiss-cpu
+tqdm
+numpy
+scikit-learn
+opencv-python
