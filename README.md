@@ -25,14 +25,9 @@ Each row shows a group of visually similar images.
 
 ## Embedding Visualizations
 
-### PCA Projection
-![PCA](visioncache_output/pca.png)
-
-### t-SNE Projection
-![t-SNE](visioncache_output/tsne.png)
-
-### UMAP Projection
-![UMAP](visioncache_output/umap.png)
+| PCA | t-SNE | UMAP |
+|:---:|:---:|:---:|
+| ![PCA](visioncache_output/pca.png) | ![t-SNE](visioncache_output/tsne.png) | ![UMAP](visioncache_output/umap.png) |
 
 **Observations:**
 - PCA and t-SNE projections show tight pairwise groupings for near-duplicate images.

@@ -7,7 +7,7 @@ import umap
 
 def plot_and_save(vecs, labels, name):
     sns.set_style("whitegrid")
-    plt.figure(figsize=(7, 7), dpi=150)
+    plt.figure(figsize=(4, 4), dpi=150)
 
     palette = sns.color_palette("husl", len(set(labels)))
     plt.scatter(
