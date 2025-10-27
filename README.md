@@ -1,4 +1,4 @@
-# Embedding-Based Image Deduplication
+# Embedding-based Image Deduplication
 
 Unsupervised image deduplication and clustering using **CLIP embeddings**, **FAISS indexing**, and **Agglomerative Clustering**.
 
